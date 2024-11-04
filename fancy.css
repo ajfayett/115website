@@ -10,4 +10,5 @@
 /* element-based or tag-based rule */
 p {
 	font-size: 1.2em;
+	font-family: "Lucida Console", "Courier New", monospace;
 }
