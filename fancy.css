@@ -10,5 +10,6 @@
 /* element-based or tag-based rule */
 p {
 	font-size: 1.2em;
+	font-family: "Times New Roman", Times, serif;
 	
 }
