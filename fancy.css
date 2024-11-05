@@ -31,7 +31,7 @@ li {
   float: left;
 }
 
-a {
+#navlink {
   display: block;
   padding: 8px;
   background-color: #dddddd;
