@@ -27,3 +27,6 @@ p {
   background-color: #dddddd;
 }
 
+ul {
+	display: inline-block;
+}
