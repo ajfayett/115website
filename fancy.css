@@ -15,13 +15,14 @@ p {
 	
 }
 
-body {
-  text-align: center;
-
-}
 
 ul.movielist {
   display: inline-block;
  
+
+}
+
+body {
+  text-align: center;
 
 }
