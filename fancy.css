@@ -1,23 +1,13 @@
-/* id-based rule */
-#bold { 
-	font-weight: bold;
-}
-/* class-based rule */
-.red { 
-	color: red;
+body {
+	text-align: center;
+	background-color: black;
 }
 
-/* element-based or tag-based rule */
+
 p {
 	font-size: 1.2em;
 	font-family: "Times New Roman", Times, serif;
 	
-}
-
-
-body {
-	text-align: center;
-	color: black;
 }
 
  #nav {
