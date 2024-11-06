@@ -8,6 +8,7 @@
 p {
 	font-size: 1.2em;
 	font-family: "Times New Roman", Times, serif;
+	color: white;
 	
 }
 
@@ -30,6 +31,7 @@ p {
 
 ul {
 	display: inline-block;
+	color: white;
 }
 
 a {
@@ -37,7 +39,14 @@ a {
 
 }
 
-div {
+h2 {
+	color: white;
 
-	background-color: black;
 }
+
+h1 {
+	color: white;
+
+}
+
+
